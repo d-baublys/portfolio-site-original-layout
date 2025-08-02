@@ -2,13 +2,13 @@
 
 The original, tile-based layout of my single-page portfolio site. Included as a portfolio item in its own right to showcase evolution and perhaps a more unconventional but thought-provoking presentation solution.
 
-Live Demo: 
+Live Demo: https://db-portfolio-original.up.railway.app
 
 ## Stack
 - **Front-end:** HTML, CSS, JavaScript
 - **Back-end:** Django
 - **Database:** N/A
-- **Hosting:** GitHub Pages
+- **Hosting:** Railway
 
 ## Lessons
 - Ensuring usability in a non-scrollable environment across different screen sizes and orientations
